@@ -1,7 +1,7 @@
 # InvokeAI
 A Google Colab / InvokeAI project <br><br>
 
-Simpe Setup:
+Simple Setup: <br>
 Download "InvokeAI_in_Google_Colab.ipynb" (Click "Code" at the top > Choose "Download zip") After saving it extract it.<br>
 Upload it to your google drive.<br>
 Then either launch it from https://drive.google.com OR https://colab.research.google.com - Google drive "apps" on either desktop or mobile will not work. <br><br>
