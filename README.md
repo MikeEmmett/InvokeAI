@@ -1,5 +1,5 @@
 # InvokeAI
-A google Colab / InvokeAI project <br><br>
+A Google Colab / InvokeAI project <br><br>
 
 Simply download "InvokeAI_in_Google_Colabipynb"<br>
 Upload it to your google drive.<br>
