@@ -1,7 +1,7 @@
 # InvokeAI
 A Google Colab / InvokeAI project <br><br>
 
-Simply download "InvokeAI_in_Google_Colabipynb"<br>
+Simply download "InvokeAI_in_Google_Colab.ipynb"<br>
 Upload it to your google drive.<br>
 Then either launch it from https://drive.google.com OR https://colab.research.google.com - Google drive apps will not work. <br><br>
 
