@@ -1,8 +1,20 @@
 # InvokeAI
 ### A Google Colab / InvokeAI project <br>
+
 ---
-#### Simple Setup:
-Download "InvokeAI_in_Google_Colab.ipynb" (Click "Code" at the top > Choose "Download zip") After saving it extract it.<br>
+
+#### Open Directly from Github:
+Open https://colab.research.google.com <br>
+A box should popup asking what project you wish to open. If it does not, choose "File" > "Open Notebook" (Ctrl + O) <br>
+Select "GitHub" from the top bar <br>
+In the search box type this repos name "MikeEmmett/InvokeAI" <br>
+Select the ".ipynb" file "InvokeAI_in_Google_Colab.ipynb" <br>
+Optional: Choose "File" > "Save copy to drive". So you can re-open it quickly and to make it save your configration.
+
+---
+
+#### Manually upload this to your google drive:
+Download "InvokeAI_in_Google_Colab.ipynb" (Click "Code" at the top > Choose "Download zip") After saving it, extract it.<br>
 Upload it to your google drive.<br>
 Then either launch it from https://drive.google.com OR https://colab.research.google.com - Google drive "apps" on either desktop or mobile will not work. 
 
