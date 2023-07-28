@@ -32,7 +32,7 @@ Create 4 code boxes and copy / paste each section of "InvokeAI_in_Google_Colab.i
 
 ---
 
-#### Confirmed working for InvokeAI v2.3.5.post2 and V3.0.0+b6 (V3 requires a workaround stated in the project)
+#### Confirmed working for InvokeAI v2.3.5.post2 and V3.0.1 (V3 requires a workaround, stated in the project)
 
 Tips Welcome! =^.^= <br>
 ETH: 0x94390B2b3890c768De13e04BaE883F7b222690C2
