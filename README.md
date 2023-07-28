@@ -1,9 +1,8 @@
 # InvokeAI
 ### A Google Colab / InvokeAI project <br>
 This is a tool to use Google colab (https://colab.research.google.com) to run the AI image generation tool: Invokeai (https://invoke-ai.github.io/InvokeAI/). <br>
-This automatically builds itself and can import your models, It can connect to Google drive to save your images. <br>
-It also has the option of running entirely from Google drive to vastly speed up the time it takes to start, over 20Gb of Google Drive space is required! However it changes subsequent startup times from 15-20 mins to 4-5 mins. <br>
-
+This automatically builds itself and can import custom models, It can use to Google drive to save your images. <br>
+It also has the option of running entirely from Google drive to vastly speed up the time it takes to start, it can take over 30Gb of Google Drive space if both default and custom models are used! However it changes subsequent startup times from 15-20 mins to 4-5 mins. <br>
 
 ---
 
@@ -21,7 +20,7 @@ Optional: Choose "File" > "Save copy to drive". So you can re-open it quickly an
 #### Manually upload this file to your google drive:
 Download "InvokeAI_in_Google_Colab.ipynb" (Click "Code" at the top > Choose "Download zip") After saving it, extract it.<br>
 Upload it to your google drive.<br>
-Then either launch it from https://drive.google.com OR https://colab.research.google.com - Google drive "apps" on either desktop or mobile will not work. 
+Then either launch it from https://drive.google.com OR https://colab.research.google.com - Google drive | Note: "apps" on either desktop or mobile will not work. 
 
 ---
 
