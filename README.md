@@ -1,4 +1,4 @@
-# Abandonware - Pologies
+# Abandonware - Apologies.
 Hello all,
 Thank you for looking at this, This is no longer managed and updated.
 This has recently been broken in a way I can not work out,
