@@ -4,7 +4,7 @@ Thank you for looking at this, This is no longer managed and updated.
 This has recently been broken in a way I can not work out,
 There are a few alternatives out there that allthough they are not "InvokeAI" My favourite is seaArt.ai It has a free level that allows simular generation amounts per day to this script. It can be found HERE.
 
-https://seaart.ai/s/wEaj3C
+https://www.seaart.ai/home?u_code=KJJLJJ
 
 
 
