@@ -1,13 +1,3 @@
-# Abandonware - Apologies.
-Hello all,
-Thank you for looking at this, This is no longer managed and updated.
-This has recently been broken in a way I can not work out,
-There are a few alternatives out there that allthough they are not "InvokeAI" My favourite is seaArt.ai It has a free level that allows simular generation amounts per day to this script. It can be found HERE.
-
-https://www.seaart.ai/home?u_code=KJJLJJ
-
-
-
 ## InvokeAI
 ### A Google Colab / InvokeAI project <br>
 This is a tool to use Google colab (https://colab.research.google.com) to run the AI image generation tool: Invokeai (https://invoke-ai.github.io/InvokeAI/). <br>
@@ -43,7 +33,7 @@ Create 4 code boxes and copy / paste each section of "InvokeAI_in_Google_Colab.i
 
 ---
 
-#### Confirmed working for InvokeAI V3.4.0
+#### Confirmed working for InvokeAI V3.5.0
 
 Tips Welcome! =^.^= <br>
 ETH: 0x94390B2b3890c768De13e04BaE883F7b222690C2
