@@ -1,6 +1,6 @@
 ## InvokeAI
 
-### This has been almost totally re-built alongside the release of InvolaAI V4.<br>
+### This has been almost totally re-built alongside the release of InvokeAI V4.<br>
 
 ### A Google Colab / InvokeAI project <br>
 This is a tool to use Google colab (https://colab.research.google.com) to run the AI image generation tool: InvokeAI (https://invoke-ai.github.io/InvokeAI/). <br>
