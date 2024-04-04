@@ -1,10 +1,11 @@
 ## InvokeAI
-### A Google Colab / InvokeAI project <br>
-This is a tool to use Google colab (https://colab.research.google.com) to run the AI image generation tool: Invokeai (https://invoke-ai.github.io/InvokeAI/). <br>
-This automatically builds itself and can import custom models, It can use to Google drive to save your images. <br>
-It also has the option of running entirely from Google drive to vastly speed up the time it takes to start, it can take over 30Gb of Google Drive space if both default and custom models are used! However it changes subsequent startup times from 15-20 mins to 4-5 mins. <br> <br>
 
-This now has the ability to do Textual Inversion Training.<br>
+### This has been almost totally re-built alongside the release of InvolaAI V4.<br>
+
+### A Google Colab / InvokeAI project <br>
+This is a tool to use Google colab (https://colab.research.google.com) to run the AI image generation tool: InvokeAI (https://invoke-ai.github.io/InvokeAI/). <br>
+This automatically builds itself and can import custom models, It can use to Google drive to save your images. <br>
+This is built with V4+ in mind but may work with older versions of for some reason you want to use them. <br> <br>
 
 ---
 
@@ -33,7 +34,7 @@ Create 4 code boxes and copy / paste each section of "InvokeAI_in_Google_Colab.i
 
 ---
 
-#### Confirmed working for InvokeAI V3.5.0
+#### Confirmed working for InvokeAI V4.0.2
 
 Tips Welcome! =^.^= <br>
 ETH: 0x94390B2b3890c768De13e04BaE883F7b222690C2
