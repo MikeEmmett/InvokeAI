@@ -8,13 +8,12 @@ This is built with V4+ in mind but may work with older versions if for some reas
 ---
 
 ## Install options
-#### Run Directly from Github:
+#### (Recomended) Run Directly from Github:
 Open https://colab.research.google.com <br>
 A box should popup asking what project you wish to open. If it does not, choose "File" > "Open Notebook" (Ctrl + O) <br>
 Select "GitHub" from the top bar <br>
 In the search box type this repos name "MikeEmmett/InvokeAI" <br>
 Select the ".ipynb" file "InvokeAI_in_Google_Colab.ipynb" <br>
-Optional: Choose "File" > "Save copy to drive". So you can re-open it quickly and allow it to save your configration.
 
 ---
 
