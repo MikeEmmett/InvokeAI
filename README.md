@@ -1,4 +1,4 @@
-# This has been broken by the release of 5.5.0 as there is a whole new install / setup system this has been pined to version - 5.4.3
+# This has been broken by the release of 5.5.0 as there is a whole new install / setup system this has been pined to version - 5.3.1 - Which seems to be the latest fully stable version onf this project.
 
 ## InvokeAI
 
@@ -33,7 +33,7 @@ Copy / paste each section of "InvokeAI_in_Google_Colab.ipynb" into them, top to 
 
 ---
 
-#### Confirmed working for InvokeAI V5.0.0
+#### Confirmed working for InvokeAI V5.3.1
 
 Tips Welcome! =^.^= <br>
 ETH: 0x94390B2b3890c768De13e04BaE883F7b222690C2
