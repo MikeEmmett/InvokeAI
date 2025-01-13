@@ -1,3 +1,5 @@
+# This has been broken by the release of 5.5.0 as there is a whole new install / setup system this has been pined to version - 5.4.3
+
 ## InvokeAI
 
 ### A Google Colab / InvokeAI project <br>
