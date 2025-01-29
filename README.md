@@ -1,4 +1,4 @@
-# This has been broken by the release of 5.5.0 as there is a whole new install / setup system this has been pined to version - 5.3.1 - Which seems to be the latest fully stable version onf this project.
+# This is being remade to work with 5.5.0+ See that file for current progress.
 
 ## InvokeAI
 
