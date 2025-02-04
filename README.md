@@ -1,11 +1,11 @@
-# This is being remade to work with 5.5.0+ See that file for current progress.
+# This has been remade for the latest versions it is a complete rebuild your files will not follow between versions. 
 
 ## InvokeAI
 
 ### A Google Colab / InvokeAI project <br>
 This is a tool to use Google colab (https://colab.research.google.com) to run the AI image generation tool: InvokeAI (https://invoke-ai.github.io/InvokeAI/). <br>
 This automatically builds itself and can import custom models, It can use to Google drive to save your images. <br>
-This is built with V4+ in mind but may work with older versions if for some reason you want to use them. <br> <br>
+This is built with V5.6.0+ in mind. It does not support versions older then 5.5.0 <br> <br>
 
 ---
 
@@ -33,7 +33,7 @@ Copy / paste each section of "InvokeAI_in_Google_Colab.ipynb" into them, top to 
 
 ---
 
-#### Confirmed working for InvokeAI V5.3.1
+#### Confirmed working for InvokeAI V5.6.0
 
 Tips Welcome! =^.^= <br>
 ETH: 0x94390B2b3890c768De13e04BaE883F7b222690C2
